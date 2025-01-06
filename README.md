@@ -1,6 +1,7 @@
-# Control-of-Relay-Using-IoT-controller
 ### Name: Aswin.L
 ### Reg No: 24900682
+
+# Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
